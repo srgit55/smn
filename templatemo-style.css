@@ -176,10 +176,10 @@ p {
 
 
 .cb-slideshow li:nth-child(1) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 1.png)
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 1.png')
 }
 .cb-slideshow li:nth-child(2) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 2.png);
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 2.png');
     -webkit-animation-delay: 12s;
     -moz-animation-delay: 12s;
     -o-animation-delay: 12s;
@@ -187,97 +187,26 @@ p {
     animation-delay: 12s; 
 }
 .cb-slideshow li:nth-child(3) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 3.png);
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 3.png');
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
     -ms-animation-delay: 24s;
     animation-delay: 24s; 
 }
-.cb-slideshow li:nth-child(8) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 4.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(5) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 5.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(6) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 6.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(7) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 7.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(8) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 8.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(9) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 9.png);
-    -webkit-animation-delay: 24s;
-    -moz-animation-delay: 24s;
-    -o-animation-delay: 24s;
-    -ms-animation-delay: 24s;
-    animation-delay: 24s; 
-}
-.cb-slideshow li:nth-child(10) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 1.png);
+.cb-slideshow li:nth-child(4) { 
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 1.png');
     animation-delay: 36s; 
 }
-.cb-slideshow li:nth-child(11) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 2.png);
+.cb-slideshow li:nth-child(5) { 
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 2.png');
     animation-delay: 48s; 
 }
-.cb-slideshow li:nth-child(12) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 3.png);
+.cb-slideshow li:nth-child(6) { 
+    background-image: url('https://srgit55.github.io/smn/See Me Nude 3.png');
     animation-delay: 60s; 
 }
-.cb-slideshow li:nth-child(13) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 4.png);
-    animation-delay: 60s; 
-}
-.cb-slideshow li:nth-child(14) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 5.png);
-    animation-delay: 60s; 
-}
-.cb-slideshow li:nth-child(15) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 6.png);
-    animation-delay: 60s; 
-}
-.cb-slideshow li:nth-child(16) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 7.png);
-    animation-delay: 60s; 
-}
-.cb-slideshow li:nth-child(17) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 8.png);
-    animation-delay: 60s; 
-}
-.cb-slideshow li:nth-child(18) { 
-    background-image: url(https://srgit55.github.io/smn/See Me Nude 9.png);
-    animation-delay: 60s; 
-}
+
 
 @keyframes imageAnimation { 
 	0% {
